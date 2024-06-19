@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/react-company-products-website/static/css/main.2089abe9.css",
+    "main.js": "/react-company-products-website/static/js/main.3556e960.js",
+    "static/js/453.9522752c.chunk.js": "/react-company-products-website/static/js/453.9522752c.chunk.js",
+    "static/media/Img1.jpg": "/react-company-products-website/static/media/Img1.a81a864615ffdcfd46eb.jpg",
+    "static/media/HeroBanner.jpg": "/react-company-products-website/static/media/HeroBanner.5b12b41907b851b4c845.jpg",
+    "static/media/Avatar.jpg": "/react-company-products-website/static/media/Avatar.781831f66560a44eb663.jpg",
+    "static/media/Logo.svg": "/react-company-products-website/static/media/Logo.18fe6bff2bf250ee4f8fe589b768d380.svg",
+    "index.html": "/react-company-products-website/index.html",
+    "main.2089abe9.css.map": "/react-company-products-website/static/css/main.2089abe9.css.map",
+    "main.3556e960.js.map": "/react-company-products-website/static/js/main.3556e960.js.map",
+    "453.9522752c.chunk.js.map": "/react-company-products-website/static/js/453.9522752c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2089abe9.css",
+    "static/js/main.3556e960.js"
+  ]
+}
